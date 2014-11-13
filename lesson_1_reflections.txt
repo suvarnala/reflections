@@ -1,0 +1,13 @@
+1.What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+Ans: Pros:
+
+2.Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Ans: Git allows to access multiple files stored in a repository where the user can view the previous and cuurent versions at once which allows the user to manipulate the differences in the versions.
+
+3.How can you use the commands git log and git diff to view the history of files?
+Ans: git log command performs the operation to give the history of recent commits with its id and old and new data.
+git diff command is used to compare the two commit id's and shows the old and new versions in that id.
+
+4.Now that you have your workspace set up, what do you want to try using Git for?
+Ans:We can store number of files with its modified and old versions .
+
