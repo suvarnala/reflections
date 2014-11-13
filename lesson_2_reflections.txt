@@ -1,0 +1,11 @@
+1.What happens when you initialize a repository? Why do you need to do it?
+Ans: When we initilize a repository it will check the initial commit whether any file is there or not in the existing directory.
+
+2.How is the staging area different from the working directory and the repository? What value do you think it offers?
+Ans: Staging area stores the files from the working area and when the user wants to commits then the entire data commits in a single commit in the repository. Staging area performs a vital role to store data form the working directory and make commits. 
+
+3.What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Ans: Git allows labels to commit called branches. A branch contains multiple versions. Branches would be helpful when the user wants to correct a bug in their versions.
+
+4.How do the diagrams help you visualize the branch structure?
+Ans: Using diagrams we can track which branches contains which commit.
